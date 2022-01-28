@@ -1,4 +1,9 @@
 # MyMarpTemplate
+# こんな感じ
+
+![](./DL-BOXの使い方.png)
+
+# 以下の先頭に貼り付け
 ```
 ---
 marp: true
@@ -71,6 +76,4 @@ style: |
     <img src="logo" width="208" height="88" alt="logo">
 </div>
 ```
-#　こんな感じ
 
-[](DL-BOXの使い方.png)
