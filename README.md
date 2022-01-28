@@ -68,6 +68,6 @@ style: |
 </div>
 
 <div style="position:absolute;left:40px;top:30px">
-    <img src="logo" width="208" height="88" alt:"logo">
+    <img src="logo" width="208" height="88" alt="logo">
 </div>
 ```
