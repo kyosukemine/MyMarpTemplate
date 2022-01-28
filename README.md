@@ -1,7 +1,7 @@
 # MyMarpTemplate
 # こんな感じ
 
-![](./DL-BOXの使い方.png)
+![](./template_image.png)
 
 # 以下の先頭に貼り付け
 ```
